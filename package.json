@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.4.1",
+    "discord-anti-spam": "^1.1.2",
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^12.0.6",
+    "hltv": "^2.8.1",
+    "node-schedule-tz": "^1.2.1-4",
+    "weather-js": "^2.0.0"
+  }
+}
